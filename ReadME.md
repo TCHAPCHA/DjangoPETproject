@@ -1,4 +1,4 @@
-Courses Shop Django PET Project using **Django** and **TastyPie** for api.
+Courses Shop Django PET Project using **Django** and **TastyPie** for API service.
 
 **Credentials**:
 * Admin Panel: admin, 123qwe456rty
